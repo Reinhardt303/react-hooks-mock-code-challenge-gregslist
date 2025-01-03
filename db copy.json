@@ -1,6 +1,12 @@
 {
   "listings": [
     {
+      "id": 1,
+      "description": "heater",
+      "image": "./images/heater.jpg",
+      "location": "BROOKLYN"
+    },
+    {
       "id": 2,
       "description": "2019 Toyota Tacoma grill",
       "image": "./images/toyota-grill.jpg",
